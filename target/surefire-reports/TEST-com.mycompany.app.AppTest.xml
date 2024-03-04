@@ -11,7 +11,7 @@
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire/surefirebooter11129429154979686271.jar /opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire 2023-12-26T14-08-05_870-jvmRun1 surefire783985431053311094tmp surefire_09850715273681611415tmp"/>
+    <property name="sun.java.command" value="/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire/surefirebooter14627198287339210814.jar /opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire 2024-01-08T22-23-27_545-jvmRun1 surefire4233723774041175260tmp surefire_09167745717396963141tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/test-classes:/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/classes:/home/jb27/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jb27/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jb27/.m2/repository/org/java-websocket/Java-WebSocket/1.5.4/Java-WebSocket-1.5.4.jar:/home/jb27/.m2/repository/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire/surefirebooter11129429154979686271.jar"/>
+    <property name="surefire.real.class.path" value="/opt/lampp/htdocs/correrjuntos/correrjuntos_websocket/websocket/target/surefire/surefirebooter14627198287339210814.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+9-Ubuntu-122.04"/>
     <property name="user.name" value="jb27"/>
